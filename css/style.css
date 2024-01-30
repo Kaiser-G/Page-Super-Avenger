@@ -61,6 +61,11 @@ article p {
     color: gray;
 }
 
+article .p2 {
+    margin-top: 105px;
+    margin-bottom: 10px;
+}
+
 article a {
     float: right;
     text-decoration: none;
